@@ -255,9 +255,9 @@ SafeDev helps you:
 
 ---
 
-# 🧑‍💻 Author
+# 🧑‍💻 Authors
 
-Developed by **Rupanshu Sisodia**
+Developed by **himanshu , krrish , divya **
 
 ---
 
