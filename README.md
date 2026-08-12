@@ -257,7 +257,7 @@ SafeDev helps you:
 
 # 🧑‍💻 Authors
 
-Developed by **himanshu , krrish , divya **
+Developed by **Himanshu , Paramjeet , Krrish , Divya **
 
 ---
 
